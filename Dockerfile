@@ -1,6 +1,6 @@
 FROM adoptopenjdk/openjdk13:ubi
 
-EXPOSE 433
+EXPOSE 443
 
 RUN mkdir /opt/Lavalink
 WORKDIR /opt/Lavalink
